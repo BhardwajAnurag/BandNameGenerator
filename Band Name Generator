@@ -1,3 +1,6 @@
+Day 1 Project
+Basic concatenation
+
 print("Welcome to Band Name Generator")
 
 city = input("Which city did you grow up in?\n")
