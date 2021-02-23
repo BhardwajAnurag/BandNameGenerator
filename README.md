@@ -1,4 +1,3 @@
-# BandNameGenerator
-1/100 days of code
+# Basic Coding Exercises
 
-Basic concatenation
+Contains files of Day 1 to day 14 of 100 day coding challenge
