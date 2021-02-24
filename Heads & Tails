@@ -1,0 +1,11 @@
+Day 4 Exercise 1
+
+import random
+random_integer = random.randint(0,1)
+
+#here random is a module created by python, which has a function called randint which helps us generate random integers, which we assigned to a variable and printed it
+
+if random_integer == 1:
+	print("Heads")
+else:
+	print("Tails")	
